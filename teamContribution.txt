@@ -1,0 +1,9 @@
+Team Contribution:
+     
+     	Vang - research
+	Kao - documentation
+	Don - testing
+	Rony - Support
+	Jorge - Changes roles as needed
+
+We got account added on your website "dyang32@sootsplash.csci2461.com:./2461-70," I also got sudo rights. Next, we need to work on getting our webserver working on that site.
